@@ -15,12 +15,17 @@ To fetch the data, you could just perform a get request to any of the above ment
 
 To run locally, install the following packages on your local machine:
 
-a. flask
-b. pandas
-c. requests
-d. bs4
-e. lxml
-f. jsonify
+  a. flask
+
+  b. pandas
+
+  c. requests
+
+  d. bs4
+
+  e. lxml
+
+  f. jsonify
 
 And finally into the folder do:
 
@@ -28,10 +33,10 @@ And finally into the folder do:
 
 For any queries or feedback, contact on: 
 
-Facebook:https://www.facebook.com/nepali.zuckerberg 
+  Facebook:https://www.facebook.com/nepali.zuckerberg 
 
-Twitter: https://twitter.com/aabiseverywhere 
+  Twitter: https://twitter.com/aabiseverywhere 
 
-Quora: https://www.quora.com/profile/Aabishkar-Wagle 
+  Quora: https://www.quora.com/profile/Aabishkar-Wagle 
 
-Gmail: aabishkar2@gmail.com
+  Gmail: aabishkar2@gmail.com
