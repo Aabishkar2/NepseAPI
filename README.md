@@ -1,4 +1,4 @@
-# Nepse API
+# Nepal Stock Market (NEPSE) API
 API for Nepal Stock Market that scraps NEPSE's website and gives data in JSON.
 
 This program scraps the real time Nepal Stock Market listed companies datas and serves it as a JSON object.
