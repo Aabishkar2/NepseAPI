@@ -22,8 +22,8 @@ f. jsonify
 And finally into the folder do:
   python3 index.py
 
-For any queries or feedback, contact on:
-Facebook:https://www.facebook.com/nepali.zuckerberg
-Twitter: https://twitter.com/aabiseverywhere
-Quora: https://www.quora.com/profile/Aabishkar-Wagle
+For any queries or feedback, contact on: \n
+Facebook:https://www.facebook.com/nepali.zuckerberg \n
+Twitter: https://twitter.com/aabiseverywhere \n
+Quora: https://www.quora.com/profile/Aabishkar-Wagle \n
 Gmail: aabishkar2@gmail.com
