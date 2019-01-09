@@ -11,25 +11,25 @@ http://nepstockapi.herokuapp.com/ (This one is more fast and has more data, scra
 
 To fetch the data, you could just perform a get request to any of the above mentioned link: Eg:
 
-  get(http://nepstockapi.herokuapp.com/)
+ 	 get(http://nepstockapi.herokuapp.com/)
 
 To run locally, install the following packages on your local machine:
 
-  a. flask
+		a. flask
 
-  b. pandas
+		b. pandas
 
-  c. requests
+		c. requests
 
-  d. bs4
+		d. bs4
 
-  e. lxml
+		e. lxml
 
-  f. jsonify
+		f. jsonify
 
 And finally into the folder do:
 
-  python3 index.py
+		python3 index.py
 
 For any queries or feedback, contact on: 
 
